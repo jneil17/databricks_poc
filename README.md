@@ -10,7 +10,7 @@ The goal is **not** to be an exhaustive training, but to showcase the **simplici
 
 1. **Run the Setup Notebook:** Open the `1. Getting Started.ipynb` notebook and "Run All" cells. This will install several pre-built `dbdemos`, populating your workspace with sample data, ETL pipelines, and dashboards. This entire process takes about 10-15 minutes.
 
-2. **Follow the Guided Tour:** Proceed through the notebooks in order, from `2. Data Ingestion.ipynb` to `5. AgentBricks.ipynb`. Each notebook will act as a guided tour of the assets you just created, explaining key concepts and linking you to the relevant resources.
+2. **Follow the Guided Tour:** Proceed through the notebooks in order, from `2. Data Ingestion.ipynb` to `7. AI Querying.ipynb`. Each notebook will act as a guided tour of the assets you just created, explaining key concepts and linking you to the relevant resources.
 
 ---
 
@@ -35,6 +35,8 @@ The `1. Getting Started.ipynb` notebook installs 7 essential demos to create a r
 * **`3. Querying and ETL.ipynb`**: **Transforming Data.** Learn how to query your data and orchestrate transformations using both scheduled jobs and modern, declarative pipelines.
 * **`4. Dashboarding and AI.ipynb`**: **Visualizing Data.** Discover how to build interactive dashboards using Databricks' built-in AI tools and how to connect to popular external BI tools like Tableau and Power BI.
 * **`5. AgentBricks.ipynb`**: **Leveraging GenAI.** Get a high-level introduction to building GenAI applications and AI agents on Databricks.
+* **`6. Tracking Costs.ipynb`**: **Monitoring Usage.** Learn how to track and optimize your Databricks costs using the Usage Dashboard and System Tables for detailed analysis.
+* **`7. AI Querying.ipynb`**: **AI-Powered SQL.** Discover how to use the ai_query function to integrate large language models directly into your SQL queries for text analysis and insights.
 
 ---
 
