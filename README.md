@@ -4,13 +4,23 @@ Welcome to the Databricks Data Intelligence Platform! This repository is designe
 
 The goal is **not** to be an exhaustive training, but to showcase the **simplicity and power** of Databricks for the most common data and AI tasks.
 
+## 🆓 Get Your Free Trial
+Don't have a Databricks account? No worries! **[Sign-up here for a free trial!](https://signup.databricks.com/)**
+
 ---
 
-## 🚀 How to Get Started (2 Simple Steps)
+## 🚀 How to Get Started (3 Simple Steps)
 
-1. **Run the Setup Notebook:** Open the `1. Getting Started.ipynb` notebook and "Run All" cells. This will install several pre-built `dbdemos`, populating your workspace with sample data, ETL pipelines, and dashboards. This entire process takes about 10-15 minutes.
+1. **Clone this Repository:** First, clone this repository into your Databricks workspace:
+   - In your Databricks workspace, click on the **Workspace** menu in the left sidebar
+   - Navigate to the folder where you want to clone the repository (e.g., your user folder)
+   - Click the "Create" in the top right and select **"Git folder"**
+   - Choose **"URL"** and paste this repository URL: `https://github.com/jneil17/databricks_poc.git`
+   - Click **"Create Git folder"** to clone the repository into your workspace
 
-2. **Follow the Guided Tour:** Proceed through the notebooks in order, from `2. Data Ingestion.ipynb` to `7. AI Querying.ipynb`. Each notebook will act as a guided tour of the assets you just created, explaining key concepts and linking you to the relevant resources.
+2. **Run the Setup Notebook:** Open the `1. Getting Started.ipynb` notebook and "Run All" cells. This will install several pre-built `dbdemos`, populating your workspace with sample data, ETL pipelines, and dashboards. This entire process takes about 10-15 minutes.
+
+3. **Follow the Guided Tour:** Proceed through the notebooks in order, from `2. Data Ingestion.ipynb` to `7. Tracking Costs.ipynb`. Each notebook will act as a guided tour of the assets you just created, explaining key concepts and linking you to the relevant resources.
 
 ---
 
@@ -35,15 +45,16 @@ The `1. Getting Started.ipynb` notebook installs 7 essential demos to create a r
 * **`3. Querying and ETL.ipynb`**: **Transforming Data.** Learn how to query your data and orchestrate transformations using both scheduled jobs and modern, declarative pipelines.
 * **`4. Dashboarding and AI.ipynb`**: **Visualizing Data.** Discover how to build interactive dashboards using Databricks' built-in AI tools and how to connect to popular external BI tools like Tableau and Power BI.
 * **`5. AgentBricks.ipynb`**: **Leveraging GenAI.** Get a high-level introduction to building GenAI applications and AI agents on Databricks.
-* **`6. Tracking Costs.ipynb`**: **Monitoring Usage.** Learn how to track and optimize your Databricks costs using the Usage Dashboard and System Tables for detailed analysis.
-* **`7. AI Querying.ipynb`**: **AI-Powered SQL.** Discover how to use the ai_query function to integrate large language models directly into your SQL queries for text analysis and insights.
+* **`6. AI Querying.ipynb`**: **AI-Powered SQL.** Discover how to use the ai_query function to integrate large language models directly into your SQL queries for text analysis and insights.
+* **`7. Tracking Costs.ipynb`**: **Monitoring Usage.** Learn how to track and optimize your Databricks costs using the Usage Dashboard and System Tables for detailed analysis.
 
 ---
 
 ## ✅ Prerequisites
 
-* A Databricks account on AWS, Azure, or GCP. If you don't have an account, no worries! [Sign-up here!](https://signup.databricks.com/)
+* A Databricks account on AWS, Azure, or GCP. If you don't have an account, **[sign-up here for a free trial!](https://signup.databricks.com/)**
 * Permissions to create clusters, run notebooks, and install libraries.
+* Basic familiarity with SQL and Python (helpful but not required).
 
 ---
 
