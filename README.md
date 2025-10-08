@@ -1,4 +1,4 @@
-# Databricks 2-Week Onboarding Workshop
+# Databricks 2-Week POC
 
 Welcome to the Databricks Data Intelligence Platform! This repository is designed to guide new users through the core components of Databricks in a simple, hands-on manner.
 
@@ -50,4 +50,4 @@ The `1. Getting Started.ipynb` notebook installs 7 essential demos to create a r
 * [Databricks Documentation](https://docs.databricks.com/)
 * [Databricks Academy for free training](https://academy.databricks.com/)
 * [Databricks Community Forums](https://community.databricks.com/)
-* [Full DBDEMOS Library](https://github.com/databricks-demos/dbdemos)
+* [Full Databricks Demo Library](https://www.databricks.com/resources/demos/library)
