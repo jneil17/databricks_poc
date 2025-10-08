@@ -1,4 +1,4 @@
-# Databricks "Data Pioneer" Onboarding Workshop
+# Databricks 2-Week Onboarding Workshop
 
 Welcome to the Databricks Data Intelligence Platform! This repository is designed to guide new users through the core components of Databricks in a simple, hands-on manner.
 
@@ -40,7 +40,7 @@ The `1. Getting Started.ipynb` notebook installs 7 essential demos to create a r
 
 ## ✅ Prerequisites
 
-* A Databricks account on AWS, Azure, or GCP.
+* A Databricks account on AWS, Azure, or GCP. If you don't have an account, no worries! [Sign-up here!](https://signup.databricks.com/)
 * Permissions to create clusters, run notebooks, and install libraries.
 
 ---
