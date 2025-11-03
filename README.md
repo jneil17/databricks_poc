@@ -20,7 +20,7 @@ Don't have a Databricks account? No worries! **[Sign-up here for a free trial!](
 
 2. **Run the Setup Notebook:** Open the `1. Getting Started.ipynb` notebook and "Run All" cells. This will install several pre-built `dbdemos`, populating your workspace with sample data, ETL pipelines, and dashboards. This entire process takes about 10-15 minutes.
 
-3. **Follow the Guided Tour:** Proceed through the notebooks in order, from `2. Data Ingestion.ipynb` to `8. Databricks Apps.ipynb`. Each notebook will act as a guided tour of the assets you just created, explaining key concepts and linking you to the relevant resources.
+3. **Follow the Guided Tour:** Proceed through the notebooks in order, from `2. Data Ingestion.ipynb` to `9. Lakebase.ipynb`. Each notebook will act as a guided tour of the assets you just created, explaining key concepts and linking you to the relevant resources.
 
 ---
 
@@ -36,7 +36,9 @@ The `1. Getting Started.ipynb` notebook installs 7 essential demos to create a r
 * **`uc-03-data-lineage`**: Demonstrating automatic data lineage and governance with Unity Catalog.
 * **`delta-sharing-airlines`**: For secure, cross-organizational data sharing.
 
-The notebook also includes a reference to **Databricks Apps** for building interactive web applications.
+The notebook also includes references to:
+* **Databricks Apps** for building interactive web applications
+* **Lakebase** for managed Postgres OLTP databases
 
 ---
 
@@ -50,6 +52,7 @@ The notebook also includes a reference to **Databricks Apps** for building inter
 * **`6. AI Querying.ipynb`**: **AI-Powered SQL.** Discover how to use the ai_query function to integrate large language models directly into your SQL queries for text analysis and insights.
 * **`7. Tracking Costs.ipynb`**: **Monitoring Usage.** Learn how to track and optimize your Databricks costs using the Usage Dashboard and System Tables for detailed analysis.
 * **`8. Databricks Apps.ipynb`**: **Building Interactive Applications.** Learn how to build and deploy production-quality web applications using Streamlit, Gradio, Dash, and Flask with native access to your data and AI agents.
+* **`9. Lakebase.ipynb`**: **Transactional Databases.** Explore Databricks' fully managed Postgres OLTP database for building real-time transactional applications with database branching, Unity Catalog integration, and seamless data synchronization.
 
 ---
 
